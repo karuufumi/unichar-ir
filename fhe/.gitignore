@@ -1,0 +1,65 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files (if applicable)
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories (common patterns)
+build/
+bin/
+obj/
+Debug/
+Release/
+Intermediate/
+Saved/
+
+# IDE-specific files (e.g., Visual Studio, CLion, Xcode)
+.vs/
+.idea/
+*.suo
+*.user
+*.ncb
+*.opensdf
+*.sdf
+*.ipch
+*.VC.db
+*.vcxproj.user
+*.cmake/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Other common temporary files
+*~
+*.bak
+*.swp
+*.log
+*.tmp
